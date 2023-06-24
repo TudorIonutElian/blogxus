@@ -1,0 +1,16 @@
+{
+  "name": "tudorionutelian/blogxus",
+  "description": "A fresh new idea for blog",
+  "autoload": {
+    "psr-4": {
+      "Blogxus\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Tudor Ionut Elian",
+      "email": "ionuteliantudor@gmail.com"
+    }
+  ],
+  "require": {}
+}
