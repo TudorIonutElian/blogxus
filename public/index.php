@@ -1,5 +1,3 @@
 <?php
 
-namespace Blogxus;
-
-echo "Blogxus";
+require "./view/index.view.php";
